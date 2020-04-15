@@ -1,0 +1,18 @@
+{
+	"ver": "LVO",
+	"names": [
+		["HAMMERING", "At the end of the Fight phase, score 1 victory point if two or more Injury rolls were made for enemy models in that phase."],
+		["BOUNTY HUNTERS", "When an enemy model is taken out of action, place a Kill Team token in contact with its base before removing the model from the battlefield. Score 1 victory point if a model from your kill team ends its move in contact with any of these markers, and then remove one of those markers the model is in contact with."],
+		["MIND GAMES", "At the end of the Morale phase, score 1 victory point if your opponent is forced to take a break test. Score 3 victory points if they successfully break."],
+		["CUT OFF THE HEAD", "When the enemy Leader is taken out of action, score victory points equal to 5 minus the number of the current battle round."],
+		["CALLED SHOT", "At the end of the Shooting phase, score 1 victory point if an attack from one or more Readied models from your kill team resulted in an enemy model being taken out of action in that phase."],
+		["DOMINATION", "At the end of the battle round, score 1 victory point if more models from your kill team are within 3” of the centre of the battlefield than there are enemy models within 3” of the centre of the battlefield (not including shaken models)."],
+		["ENGAGE ON ALL FRONTS", "Divide the battlefield into four equal rectangles, a corner of each of which meets the others in the center of the battlefield. At the end of the battle round, score 1 victory point if there is at least one model from your kill team (other than shaken models) wholly within each of these rectangles."],
+		["HOLDING", "Score 3 victory points at the end of the game if there is one objective that you have controlled every single round."],
+		["HIGH-PROFILE TARGETS", "When an enemy specialist (other than a Leader) is taken out of action, score 1 victory point."],
+		["PROXIMITY ALERT", "At the end of the battle round, score 1 victory point if there is any enemy model within 2” of two or more models (other than shaken models) from your kill team."],
+		["RECON SWEEP", "At the end of the battle round, score 1 victory point if one or more models from your kill team (other than shaken models) are wholly within the enemy deployment zone."],
+		["SCOUT THE FIELD", "At the end of the battle round, score 1 victory point if there are models from your kill team (other than shaken models) within 1” of at least three different battle edges. Models wholly within your deployment zone do not count unless they are within 1” of a battlefield edge that does not extend beyond your deployment zone, in which case they only count for one battlefield edge."],
+		["SURVIVOR", "Pick a model from your kill team before the battle begins. Reveal this secondary to your opponent at the beginning of the battle and reveal which unit you have selected. If at the end of the battle that unit is wholly outside of your deployment zone and still on the battlefield, score 3 victory points if this model has 0 flesh wounds, 2 victory points if they have 1 flesh wound, and 1 victory point if they have 2 or more flesh wounds. This model cannot be put in reserve."]
+	]
+}
